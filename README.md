@@ -1,4 +1,4 @@
-### Hola, I'm Nitesh, How is it going ? 👋
+### Hola 👋 I'm Nitesh, How is it going ?
 
 - 🔭 I’m currently working on NodeJS
 - 🌱 I’m currently learning TypeScript
